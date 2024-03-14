@@ -1,7 +1,7 @@
 # Product-Recomendation-System
 
 # Overview
-This code implements a product recommendation system using a dataset of video game reviews. It leverages natural language processing techniques to generate recommendations based on textual similarity between product reviews.
+This project implements a product recommendation system using a dataset of video game reviews. It leverages natural language processing techniques to generate recommendations based on textual similarity between product reviews.
 
 # Dependencies
 Datasets: Used for loading and handling datasets.
